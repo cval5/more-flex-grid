@@ -280,7 +280,7 @@ p{
     padding: 64px 32px;
     /* Styles were added here to arrange the content, I used grid */
     display: grid;
-    grid-template: 1fr;
+    grid-template-columns: 1fr;
     justify-items: center;
     row-gap: 2rem;
 }
